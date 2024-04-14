@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Ahmed_Ali-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.eng.ahmed1419@gmail.com)](mailto:eng.ahmed1419@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ahmed-ali-1472731b8/)
 [![WhatsApp](https://img.shields.io/badge/Ahmed_Ali-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201016416800&text=Hi-Ahmed!🖖)](https://api.whatsapp.com/send?phone=201141752767&text=Hi-Ahmed!🖖)
-[![Website Badge](https://img.shields.io/badge/-Ahmed_Ali.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmed2021ali.github.io/Portfolio/) 
+[![Website Badge](https://img.shields.io/badge/-Ahmed_Ali.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedali2.netlify.app) 
 
 ##### Languages I use
 
