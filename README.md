@@ -10,10 +10,10 @@
  <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> 
 
 [![Telegram](https://img.shields.io/badge/Ahmed_Ali-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/eng_ahmed_ali_abdulghani)
-[![Gmail](https://img.shields.io/badge/Ahmed_Ali-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.eng.ahmed1419@gmail.com)](mailto:eng.ahmed1419@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Ahmed_Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ahmed-ali-1472731b8/)
+[![Gmail](https://img.shields.io/badge/Ahmed_Ali-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.eng.ahmed1419@gmail.com)](mailto:eng.ahmed1530@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Ahmed_Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/eng-ahmed-ali-abdulghani/)
 [![WhatsApp](https://img.shields.io/badge/Ahmed_Ali-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201016416800&text=Hi-Ahmed!🖖)](https://api.whatsapp.com/send?phone=201141752767&text=Hi-Ahmed!🖖)
-[![Website Badge](https://img.shields.io/badge/-Ahmed_Ali.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedali2.netlify.app) 
+[![Website Badge](https://img.shields.io/badge/-Ahmed_Ali.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedali.top/) 
 
 ##### Languages I use
 
